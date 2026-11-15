@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model checkpoints and weights
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+pytorch_model.bin
+
+# Generated outputs and logs
+edited_*.png
+edited_*.jpg
+edited_*.jpeg
+process_log.txt
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
