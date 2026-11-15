@@ -52,8 +52,8 @@ The following examples show the original room images alongside the corresponding
     <th align="center">AI-Generated Redesign</th>
   </tr>
   <tr>
-    <td align="center"><img src="room1.jpg" alt="Room 1 - Original interior" width="420"></td>
-    <td align="center"><img src="room1%20output.PNG" alt="Room 1 - AI-generated redesign" width="420"></td>
+    <td align="center"><img src="images/room1.jpg" alt="Room 1 - Original interior" width="420"></td>
+    <td align="center"><img src="images/room1%20output.PNG" alt="Room 1 - AI-generated redesign" width="420"></td>
   </tr>
 </table>
 
@@ -65,8 +65,8 @@ The following examples show the original room images alongside the corresponding
     <th align="center">AI-Generated Redesign</th>
   </tr>
   <tr>
-    <td align="center"><img src="room2.jpg" alt="Room 2 - Original interior" width="420"></td>
-    <td align="center"><img src="room2%20output.jpg" alt="Room 2 - AI-generated redesign" width="420"></td>
+    <td align="center"><img src="images/room2.jpg" alt="Room 2 - Original interior" width="420"></td>
+    <td align="center"><img src="images/room2%20output.jpg" alt="Room 2 - AI-generated redesign" width="420"></td>
   </tr>
 </table>
 
