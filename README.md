@@ -42,17 +42,33 @@ Dream to Reality uses **Stable Diffusion InstructPix2Pix** to modify room images
 
 ## Sample Results
 
+The following examples show the original room images alongside the corresponding AI-generated redesigns.
+
 ### Room 1
 
-| Original Image | AI-Generated Design |
-|---|---|
-| ![Room 1 Original](room1.jpg) | ![Room 1 Output](room1%20output.PNG) |
+<table>
+  <tr>
+    <th align="center">Original Room</th>
+    <th align="center">AI-Generated Redesign</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="room1.jpg" alt="Room 1 - Original interior" width="420"></td>
+    <td align="center"><img src="room1%20output.PNG" alt="Room 1 - AI-generated redesign" width="420"></td>
+  </tr>
+</table>
 
 ### Room 2
 
-| Original Image | AI-Generated Design |
-|---|---|
-| ![Room 2 Original](room2.jpg) | ![Room 2 Output](room2%20output.jpg) |
+<table>
+  <tr>
+    <th align="center">Original Room</th>
+    <th align="center">AI-Generated Redesign</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="room2.jpg" alt="Room 2 - Original interior" width="420"></td>
+    <td align="center"><img src="room2%20output.jpg" alt="Room 2 - AI-generated redesign" width="420"></td>
+  </tr>
+</table>
 
 ## Installation and Execution
 
