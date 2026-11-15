@@ -68,7 +68,7 @@ pip install torch diffusers transformers accelerate safetensors pillow
 ### 3. Run the project
 
 ```bash
-python Code
+python main.py
 ```
 
 The application will prompt you to select an image, describe the modifications, and specify how many variations to generate.
