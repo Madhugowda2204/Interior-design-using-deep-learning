@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="project-banner.png" alt="Dream to Reality – AI-Powered Interior Design" width="100%">
+</div>
+
 # Dream to Reality – AI-Powered Interior Design
 
 An AI-powered interior design application that transforms existing room images into redesigned interiors based on user-provided text prompts.
